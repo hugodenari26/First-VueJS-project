@@ -3,7 +3,7 @@
  
  To run:
  
- clone or download zip 
+ clone or download zip<br> 
  cd to project folder
  npm install
  npm start
