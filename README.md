@@ -1,5 +1,5 @@
 # First-VueJS-project
- First VueJS Project from Udemy Course
+ Browser game using VueJS
  
  To run:
  
