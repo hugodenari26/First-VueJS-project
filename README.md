@@ -5,5 +5,4 @@
  
  clone or download zip<br> 
  cd to project folder<br>
- npm install<br>
- npm start
+ open index.html
